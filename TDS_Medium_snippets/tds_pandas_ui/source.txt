@@ -1,0 +1,5 @@
+https://pub.towardsai.net/this-pandas-trick-will-blow-your-mind-as-a-data-scientist-de4d0aaca6e5
+
+data:
+https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
+
